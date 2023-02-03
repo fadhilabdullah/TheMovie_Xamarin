@@ -1,0 +1,12 @@
+android.support.design.widget.TabLayout;obj\Debug\81\res\layout\tabbar.xml
+android.support.v7.widget.Toolbar;obj\Debug\81\res\layout\toolbar.xml
+item;obj\Debug\81\res\values\styles.xml
+resources;E:\PROJECT\Movie_Xamarin\TheMovie\TheMovie.Android\obj\Debug\81\lp\4\jl\res\values\strings.xml
+resources;E:\PROJECT\Movie_Xamarin\TheMovie\TheMovie.Android\obj\Debug\81\lp\7\jl\res\values\strings.xml
+resources;E:\PROJECT\Movie_Xamarin\TheMovie\TheMovie.Android\obj\Debug\81\lp\8\jl\res\values\strings.xml
+resources;E:\PROJECT\Movie_Xamarin\TheMovie\TheMovie.Android\obj\Debug\81\lp\9\jl\res\values\strings.xml
+resources;obj\Debug\81\res\values\strings.xml
+resources;obj\Debug\81\res\values\styles.xml
+string;E:\PROJECT\Movie_Xamarin\TheMovie\TheMovie.Android\obj\Debug\81\lp\9\jl\res\values\strings.xml
+string;obj\Debug\81\res\values\strings.xml
+style;obj\Debug\81\res\values\styles.xml

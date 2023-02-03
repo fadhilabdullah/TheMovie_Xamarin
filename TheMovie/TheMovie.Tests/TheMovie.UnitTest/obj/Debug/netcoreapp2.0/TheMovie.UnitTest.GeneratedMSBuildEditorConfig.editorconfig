@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TheMovie.UnitTest
+build_property.ProjectDir = E:\PROJECT\Movie_Xamarin\TheMovie\TheMovie.Tests\TheMovie.UnitTest\

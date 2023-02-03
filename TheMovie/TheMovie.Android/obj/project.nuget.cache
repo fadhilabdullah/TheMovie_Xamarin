@@ -1,0 +1,174 @@
+{
+  "version": 2,
+  "dgSpecHash": "pbxGOjv0F1+x8NZmwWiGeN0YgVcb2CuqsZJGCqqYuf4t8jVZb7FC0aaEUOcqWEaG2H7XGL4caAk9jwHGRHrYJw==",
+  "success": false,
+  "projectFilePath": "E:\\PROJECT\\Movie_Xamarin\\TheMovie\\TheMovie.Android\\TheMovie.Android.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\cardsview\\1.6.6\\cardsview.1.6.6.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\dryioc.dll\\3.0.2\\dryioc.dll.3.0.2.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.appcenter\\1.11.0\\microsoft.appcenter.1.11.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.appcenter.analytics\\1.11.0\\microsoft.appcenter.analytics.1.11.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.appcenter.crashes\\1.11.0\\microsoft.appcenter.crashes.1.11.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\plugin.currentactivity\\2.1.0.4\\plugin.currentactivity.2.1.0.4.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\plugin.share\\7.1.1\\plugin.share.7.1.1.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\prism.core\\7.1.0.431\\prism.core.7.1.0.431.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\prism.dryioc.forms\\7.1.0.431\\prism.dryioc.forms.7.1.0.431.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\prism.forms\\7.1.0.431\\prism.forms.7.1.0.431.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xam.plugin.connectivity\\3.2.0\\xam.plugin.connectivity.3.2.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.arch.core.common\\1.0.0.1\\xamarin.android.arch.core.common.1.0.0.1.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.arch.lifecycle.common\\1.0.3.1\\xamarin.android.arch.lifecycle.common.1.0.3.1.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.arch.lifecycle.runtime\\1.0.3.1\\xamarin.android.arch.lifecycle.runtime.1.0.3.1.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.support.animated.vector.drawable\\27.0.2\\xamarin.android.support.animated.vector.drawable.27.0.2.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.support.annotations\\27.0.2.1\\xamarin.android.support.annotations.27.0.2.1.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.support.compat\\27.0.2.1\\xamarin.android.support.compat.27.0.2.1.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.support.core.ui\\27.0.2\\xamarin.android.support.core.ui.27.0.2.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.support.core.utils\\27.0.2\\xamarin.android.support.core.utils.27.0.2.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.support.customtabs\\25.4.0.2\\xamarin.android.support.customtabs.25.4.0.2.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.support.design\\27.0.2\\xamarin.android.support.design.27.0.2.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.support.fragment\\27.0.2\\xamarin.android.support.fragment.27.0.2.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.support.media.compat\\27.0.2\\xamarin.android.support.media.compat.27.0.2.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.support.transition\\27.0.2\\xamarin.android.support.transition.27.0.2.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.support.v4\\27.0.2\\xamarin.android.support.v4.27.0.2.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.support.v7.appcompat\\27.0.2\\xamarin.android.support.v7.appcompat.27.0.2.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.support.v7.cardview\\27.0.2\\xamarin.android.support.v7.cardview.27.0.2.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.support.v7.mediarouter\\27.0.2\\xamarin.android.support.v7.mediarouter.27.0.2.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.support.v7.palette\\27.0.2\\xamarin.android.support.v7.palette.27.0.2.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.support.v7.recyclerview\\27.0.2\\xamarin.android.support.v7.recyclerview.27.0.2.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.android.support.vector.drawable\\27.0.2\\xamarin.android.support.vector.drawable.27.0.2.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.ffimageloading\\2.4.4.859\\xamarin.ffimageloading.2.4.4.859.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.ffimageloading.forms\\2.4.4.859\\xamarin.ffimageloading.forms.2.4.4.859.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\xamarin.forms\\3.4.0.1008975\\xamarin.forms.3.4.0.1008975.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: Xamarin.Android.Support.CustomTabs 25.4.0.2 requires Xamarin.Android.Support.Compat (= 25.4.0.2) but version Xamarin.Android.Support.Compat 27.0.2.1 was resolved.",
+      "libraryId": "Xamarin.Android.Support.Compat",
+      "targetGraphs": [
+        "MonoAndroid,Version=v8.1"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: Xamarin.Android.Support.v4 27.0.2 requires Xamarin.Android.Support.Compat (= 27.0.2) but version Xamarin.Android.Support.Compat 27.0.2.1 was resolved.",
+      "libraryId": "Xamarin.Android.Support.Compat",
+      "targetGraphs": [
+        "MonoAndroid,Version=v8.1"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: Xamarin.Android.Support.Design 27.0.2 requires Xamarin.Android.Support.Compat (= 27.0.2) but version Xamarin.Android.Support.Compat 27.0.2.1 was resolved.",
+      "libraryId": "Xamarin.Android.Support.Compat",
+      "targetGraphs": [
+        "MonoAndroid,Version=v8.1"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: Xamarin.Android.Support.v7.AppCompat 27.0.2 requires Xamarin.Android.Support.Compat (= 27.0.2) but version Xamarin.Android.Support.Compat 27.0.2.1 was resolved.",
+      "libraryId": "Xamarin.Android.Support.Compat",
+      "targetGraphs": [
+        "MonoAndroid,Version=v8.1"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: Xamarin.Android.Support.Core.UI 27.0.2 requires Xamarin.Android.Support.Compat (= 27.0.2) but version Xamarin.Android.Support.Compat 27.0.2.1 was resolved.",
+      "libraryId": "Xamarin.Android.Support.Compat",
+      "targetGraphs": [
+        "MonoAndroid,Version=v8.1"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: Xamarin.Android.Support.Core.Utils 27.0.2 requires Xamarin.Android.Support.Compat (= 27.0.2) but version Xamarin.Android.Support.Compat 27.0.2.1 was resolved.",
+      "libraryId": "Xamarin.Android.Support.Compat",
+      "targetGraphs": [
+        "MonoAndroid,Version=v8.1"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: Xamarin.Android.Support.Fragment 27.0.2 requires Xamarin.Android.Support.Compat (= 27.0.2) but version Xamarin.Android.Support.Compat 27.0.2.1 was resolved.",
+      "libraryId": "Xamarin.Android.Support.Compat",
+      "targetGraphs": [
+        "MonoAndroid,Version=v8.1"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: Xamarin.Android.Support.Media.Compat 27.0.2 requires Xamarin.Android.Support.Compat (= 27.0.2) but version Xamarin.Android.Support.Compat 27.0.2.1 was resolved.",
+      "libraryId": "Xamarin.Android.Support.Compat",
+      "targetGraphs": [
+        "MonoAndroid,Version=v8.1"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: Xamarin.Android.Support.v7.RecyclerView 27.0.2 requires Xamarin.Android.Support.Compat (= 27.0.2) but version Xamarin.Android.Support.Compat 27.0.2.1 was resolved.",
+      "libraryId": "Xamarin.Android.Support.Compat",
+      "targetGraphs": [
+        "MonoAndroid,Version=v8.1"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: Xamarin.Android.Support.Transition 27.0.2 requires Xamarin.Android.Support.Compat (= 27.0.2) but version Xamarin.Android.Support.Compat 27.0.2.1 was resolved.",
+      "libraryId": "Xamarin.Android.Support.Compat",
+      "targetGraphs": [
+        "MonoAndroid,Version=v8.1"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: Xamarin.Android.Support.Vector.Drawable 27.0.2 requires Xamarin.Android.Support.Compat (= 27.0.2) but version Xamarin.Android.Support.Compat 27.0.2.1 was resolved.",
+      "libraryId": "Xamarin.Android.Support.Compat",
+      "targetGraphs": [
+        "MonoAndroid,Version=v8.1"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: Xamarin.Android.Support.v7.Palette 27.0.2 requires Xamarin.Android.Support.Compat (= 27.0.2) but version Xamarin.Android.Support.Compat 27.0.2.1 was resolved.",
+      "libraryId": "Xamarin.Android.Support.Compat",
+      "targetGraphs": [
+        "MonoAndroid,Version=v8.1"
+      ]
+    },
+    {
+      "code": "NU1107",
+      "level": "Error",
+      "message": "Version conflict detected for Xamarin.Android.Support.Annotations. Install/reference Xamarin.Android.Support.Annotations 27.0.2.1 directly to project TheMovie.Android to resolve this issue. \r\n TheMovie.Android -> Xamarin.Android.Support.Compat 27.0.2.1 -> Xamarin.Android.Support.Annotations (= 27.0.2.1) \r\n TheMovie.Android -> Xamarin.Forms 3.4.0.1008975 -> Xamarin.Android.Support.v7.CardView 27.0.2 -> Xamarin.Android.Support.Annotations (= 27.0.2).",
+      "libraryId": "Xamarin.Android.Support.Annotations",
+      "targetGraphs": [
+        "MonoAndroid,Version=v8.1"
+      ]
+    }
+  ]
+}
